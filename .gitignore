@@ -1,0 +1,6 @@
+# 빌드 출력물
+bin/
+obj/
+
+# JetBrains Rider 프로젝트 설정
+.idea/
